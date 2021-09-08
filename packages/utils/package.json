@@ -1,6 +1,6 @@
 {
   "name": "@self-cli-dev/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "self-cli-dev utils",
   "author": "彭思涛 <pengsitao@wanmi.com>",
   "homepage": "",
@@ -16,5 +16,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "5563901ae6ff6ab9d914bde7674b574e366a6827"
+  "gitHead": "015c6add0d16a369418758b0493c73dec0926533",
+  "publishConfig": {
+    "access": "public"
+  }
 }
