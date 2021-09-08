@@ -1,6 +1,6 @@
 {
   "name": "@self-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "self-cli-dev core",
   "author": "彭思涛 <pengsitao@wanmi.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@self-cli-dev/utils": "^1.0.3"
+    "@self-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "015c6add0d16a369418758b0493c73dec0926533",
   "publishConfig": {
