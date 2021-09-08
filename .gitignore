@@ -1,0 +1,6 @@
+package-lock.json
+.vscode
+.idea
+node_modules
+# 屏蔽掉packages目录下所有的node_modules
+packages/**/node_modules 

@@ -1,0 +1,22 @@
+{
+  "name": "@self-cli-dev/core",
+  "version": "1.0.0",
+  "description": "self-cli-dev core",
+  "author": "彭思涛 <pengsitao@wanmi.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@self-cli-dev/utils":"^1.0.0"
+  }
+}
