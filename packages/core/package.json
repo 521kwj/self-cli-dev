@@ -1,13 +1,13 @@
 {
   "name": "@self-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "self-cli-dev core",
   "author": "彭思涛 <pengsitao@wanmi.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
-  "bin":{
-    "self-cli-dev":"bin/index.js"
+  "bin": {
+    "self-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@self-cli-dev/utils": "^1.0.2"
+    "@self-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "e87770115177d0ef7c5c2deb7bf7a111e386c496"
 }
